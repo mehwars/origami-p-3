@@ -1,0 +1,27 @@
+.font{
+    font-family: "w3-cursive";
+}
+
+
+.header{
+    display: flex;
+    justify-content:space-around;
+    background-color: #000000;
+    padding: 15px;
+    font-family: serif;
+}
+
+.footer{
+    background-color:pink;
+    border: 2px solid #000000;
+    border-radius: 50px;
+}
+
+h3{
+    color:darkblue;
+}
+
+body{
+    margin: 0px;
+    background-color: #f7f2f2;
+}
